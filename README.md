@@ -1,5 +1,5 @@
 
-# Inventory Management and Billing Website using NodeJS, MySQL and Javascript  
+# Inventory Management System using NodeJS, MySQL and Javascript  
 
   
 ## Features
